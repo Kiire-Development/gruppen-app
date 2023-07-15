@@ -1,0 +1,16 @@
+.main {
+    height: 100vh;
+    scroll-snap-type: y proximity;
+    overflow: auto;
+}
+.scrollSnapDiv {
+    scroll-snap-align: start;
+}
+.firstScreen {
+    height: 100vh;
+    background-color: aqua;
+}
+.secondSection {
+    height: 100vh;
+    background-color: blanchedalmond;
+}
